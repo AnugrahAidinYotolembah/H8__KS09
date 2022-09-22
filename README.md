@@ -8,6 +8,8 @@ dan memenuhi arahan dari Hacktiv8. adapun data diri saya sebagai berikut :
 - Domisili        : Palu, Sulawesi Tengah
 - Universitas     : Universitas Tadulako
 - Nama Program    : Introduction to Python for Data Science
+- Kode Peserta    : PYTN-KS09-023
 - Batch           : 9 
+
 
 Makasih semua !!
